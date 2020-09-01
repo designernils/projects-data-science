@@ -19,5 +19,8 @@ My name is Nils Enders-Brenner and I am welcoming you to my digital portfolio!
 Here are some information about me:
 - **Hometown**: Bavaria, Germany
 - **Education Background**: Visual Communications, Product Design & Industrial Design
+- **Programming Languages**: Python, KQL, SQL, HTML, CSS
 
-If you would like to know more about me, shoot me a message, visit my [LinkedIn account](https://www.linkedin.com/in/nendersbrenner) or [business website](https://www.designernils.com).
+transiting from Design into Data Science...
+
+If you would like to know more about me, shoot me a message, visit my [LinkedIn account](https://www.linkedin.com/in/nendersbrenner) or my [business website](https://www.designernils.com).
