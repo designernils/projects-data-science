@@ -10,6 +10,9 @@ This repository holds all my personal projects related to Data Science that I ha
 2. Quantitative UX Research
 3. Business / Stock Analysis
 
+Which projects to include?
+Regression / classification / clustering / deep learning
+
 ## Background
 
 Hello!
@@ -21,6 +24,6 @@ Here are some information about me:
 - **Education Background**: Visual Communications, Product Design & Industrial Design
 - **Programming Languages**: Python, KQL, SQL, HTML, CSS
 
-transiting from Design into Data Science...
+transitioning from Design into Data Science...
 
 If you would like to know more about me, shoot me a message, visit my [LinkedIn account](https://www.linkedin.com/in/nendersbrenner) or my [business website](https://www.designernils.com).
